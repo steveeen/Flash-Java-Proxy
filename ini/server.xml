@@ -2,11 +2,8 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>Version 1.0</comment>
-<entry key="tableName">jdbc:postgresql://localhost:5432/Pflanzen</entry>
 <entry key="maxConnection">20</entry>
-<entry key="dbdriver">org.postgresql.Driver</entry>
 <entry key="serverIP4Address">127.0.0.1</entry>
 <entry key="serverPort">81</entry>
-<entry key="tmpDirectory">tmp_picture</entry>
 <entry key="socketTimeout">0</entry>
 </properties>
