@@ -1,0 +1,45 @@
+2011-08-27 00:33:13,504 INFO main server.ServerControl  (396:)  - ServerControl: Aufruf von serverStarten()
+2011-08-27 00:33:13,512 INFO main server.Server  (85:)  - Starte Server
+2011-08-27 00:33:13,600 INFO Thread-3 server.Server  (214:)  - start Thread
+2011-08-27 00:33:13,600 INFO Thread-3 server.Server  (172:)  - ServerRun START
+2011-08-27 00:33:13,626 INFO Thread-3 server.Server  (174:)  - ServerRun START1
+2011-08-27 00:33:13,627 INFO Thread-3 server.Server  (176:)  - Server: Warte auf neue Verbindung: Verbindungsanzahl:0
+2011-08-27 00:34:24,909 INFO AWT-EventQueue-0 server.ServerControl  (432:)  - ServerControl: Aufruf von serverBeenden()
+2011-08-27 00:34:25,031 INFO Thread-3 server.Server  (202:)  -  serverRun() ENDE!
+2011-08-27 00:34:25,032 INFO Thread-3 server.Server  (225:)  - Server: run() wird verlassen...
+2011-08-27 00:34:44,091 INFO main server.ServerControl  (396:)  - ServerControl: Aufruf von serverStarten()
+2011-08-27 00:34:44,156 INFO main server.Server  (85:)  - Starte Server
+2011-08-27 00:34:44,165 INFO Thread-3 server.Server  (214:)  - start Thread
+2011-08-27 00:34:44,166 INFO Thread-3 server.Server  (172:)  - ServerRun START
+2011-08-27 00:34:44,169 INFO Thread-3 server.Server  (174:)  - ServerRun START1
+2011-08-27 00:34:44,170 INFO Thread-3 server.Server  (176:)  - Server: Warte auf neue Verbindung: Verbindungsanzahl:0
+2011-08-27 00:34:47,483 INFO AWT-EventQueue-0 server.ServerControl  (432:)  - ServerControl: Aufruf von serverBeenden()
+2011-08-27 00:34:47,519 INFO Thread-3 server.Server  (202:)  -  serverRun() ENDE!
+2011-08-27 00:34:47,520 INFO Thread-3 server.Server  (225:)  - Server: run() wird verlassen...
+2011-08-27 00:34:49,591 INFO main server.ServerControl  (396:)  - ServerControl: Aufruf von serverStarten()
+2011-08-27 00:34:49,601 INFO main server.Server  (85:)  - Starte Server
+2011-08-27 00:34:49,611 INFO Thread-3 server.Server  (214:)  - start Thread
+2011-08-27 00:34:49,611 INFO Thread-3 server.Server  (172:)  - ServerRun START
+2011-08-27 00:34:49,615 INFO Thread-3 server.Server  (174:)  - ServerRun START1
+2011-08-27 00:34:49,615 INFO Thread-3 server.Server  (176:)  - Server: Warte auf neue Verbindung: Verbindungsanzahl:0
+2011-08-27 00:34:52,508 INFO AWT-EventQueue-0 server.ServerControl  (432:)  - ServerControl: Aufruf von serverBeenden()
+2011-08-27 00:34:52,541 INFO Thread-3 server.Server  (202:)  -  serverRun() ENDE!
+2011-08-27 00:34:52,541 INFO Thread-3 server.Server  (225:)  - Server: run() wird verlassen...
+2011-09-06 13:26:45,777 INFO main server.ServerControl  (396:)  - ServerControl: Aufruf von serverStarten()
+2011-09-06 13:26:45,814 INFO main server.Server  (85:)  - Starte Server
+2011-09-06 13:26:45,826 INFO Thread-3 server.Server  (214:)  - start Thread
+2011-09-06 13:26:45,826 INFO Thread-3 server.Server  (172:)  - ServerRun START
+2011-09-06 13:26:45,830 INFO Thread-3 server.Server  (174:)  - ServerRun START1
+2011-09-06 13:26:45,831 INFO Thread-3 server.Server  (176:)  - Server: Warte auf neue Verbindung: Verbindungsanzahl:0
+2011-09-06 13:26:56,943 INFO AWT-EventQueue-0 server.ServerControl  (432:)  - ServerControl: Aufruf von serverBeenden()
+2011-09-06 13:26:57,019 INFO Thread-3 server.Server  (202:)  -  serverRun() ENDE!
+2011-09-06 13:26:57,019 INFO Thread-3 server.Server  (225:)  - Server: run() wird verlassen...
+2011-09-06 13:27:01,830 INFO main server.ServerControl  (396:)  - ServerControl: Aufruf von serverStarten()
+2011-09-06 13:27:01,839 INFO main server.Server  (85:)  - Starte Server
+2011-09-06 13:27:01,848 INFO Thread-3 server.Server  (214:)  - start Thread
+2011-09-06 13:27:01,849 INFO Thread-3 server.Server  (172:)  - ServerRun START
+2011-09-06 13:27:01,853 INFO Thread-3 server.Server  (174:)  - ServerRun START1
+2011-09-06 13:27:01,853 INFO Thread-3 server.Server  (176:)  - Server: Warte auf neue Verbindung: Verbindungsanzahl:0
+2011-09-06 13:27:05,904 INFO AWT-EventQueue-0 server.ServerControl  (432:)  - ServerControl: Aufruf von serverBeenden()
+2011-09-06 13:27:05,951 INFO Thread-3 server.Server  (202:)  -  serverRun() ENDE!
+2011-09-06 13:27:05,951 INFO Thread-3 server.Server  (225:)  - Server: run() wird verlassen...
